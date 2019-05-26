@@ -1,0 +1,17 @@
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobotTests.deps.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobotTests.runtimeconfig.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobotTests.runtimeconfig.dev.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobotTests.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobotTests.pdb
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobot.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\bin\Debug\netcoreapp2.2\HexagonRobot.pdb
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.csprojAssemblyReference.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.csproj.CoreCompileInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.AssemblyInfoInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.AssemblyInfo.cs
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.csproj.CopyComplete
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobotTests\obj\Debug\netcoreapp2.2\HexagonRobotTests.pdb
