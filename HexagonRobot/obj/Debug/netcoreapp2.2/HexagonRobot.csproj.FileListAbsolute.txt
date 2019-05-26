@@ -1,0 +1,11 @@
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Debug\netcoreapp2.2\HexagonRobot.deps.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Debug\netcoreapp2.2\HexagonRobot.runtimeconfig.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Debug\netcoreapp2.2\HexagonRobot.runtimeconfig.dev.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Debug\netcoreapp2.2\HexagonRobot.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Debug\netcoreapp2.2\HexagonRobot.pdb
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.csprojAssemblyReference.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.csproj.CoreCompileInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.AssemblyInfoInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.AssemblyInfo.cs
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Debug\netcoreapp2.2\HexagonRobot.pdb

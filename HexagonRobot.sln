@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonRobot", "HexagonRobot\HexagonRobot.csproj", "{6F76B323-E5F2-42EF-87CB-724C337AB3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonRobotTests", "HexagonRobotTests\HexagonRobotTests.csproj", "{66913FF3-2771-46EB-998A-F2A3DCC362D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F76B323-E5F2-42EF-87CB-724C337AB3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F76B323-E5F2-42EF-87CB-724C337AB3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F76B323-E5F2-42EF-87CB-724C337AB3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F76B323-E5F2-42EF-87CB-724C337AB3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66913FF3-2771-46EB-998A-F2A3DCC362D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66913FF3-2771-46EB-998A-F2A3DCC362D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66913FF3-2771-46EB-998A-F2A3DCC362D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66913FF3-2771-46EB-998A-F2A3DCC362D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95026CB-5197-4C60-86B8-B7D1F6CD5F9F}
+	EndGlobalSection
+EndGlobal

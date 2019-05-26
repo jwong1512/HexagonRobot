@@ -1,0 +1,21 @@
+2019-05-27 08:47:10 [IMPORTANT] | Application STARTED.
+2019-05-27 08:47:15 [START] | START setting Table Location. USER INPUT: place 3,5,north
+2019-05-27 08:47:15 [WARNING] | Initial Location OUT OF BOUNDS. USER INPUT: (3, 5, North)
+2019-05-27 08:47:19 [END] | COMPLETED setting Initial Table Location. USER INPUT: place 3,3,north
+2019-05-27 08:47:22 [START] | Start Moving FORWARD in direction of North
+2019-05-27 08:47:22 [END] | Completed Moving Forward
+2019-05-27 08:47:23 [START] | Start Moving FORWARD in direction of North
+2019-05-27 08:47:23 [WARNING] | INVALID MOVE. The Robot will fall off the table if you continue moving North
+2019-05-27 08:47:23 [END] | Completed Moving Forward
+2019-05-27 08:47:24 [START] | Start Turning LEFT from direction of North
+2019-05-27 08:47:24 [END] | Completed Turning LEFT
+2019-05-27 08:47:25 [START] | Start Moving FORWARD in direction of West
+2019-05-27 08:47:25 [END] | Completed Moving Forward
+2019-05-27 08:47:25 [START] | Start Moving FORWARD in direction of West
+2019-05-27 08:47:25 [END] | Completed Moving Forward
+2019-05-27 08:47:25 [START] | Start Moving FORWARD in direction of West
+2019-05-27 08:47:25 [END] | Completed Moving Forward
+2019-05-27 08:47:26 [START] | Start Moving FORWARD in direction of West
+2019-05-27 08:47:26 [WARNING] | INVALID MOVE. The Robot will fall off the table if you continue moving West
+2019-05-27 08:47:26 [END] | Completed Moving Forward
+2019-05-27 08:47:28 [IMPORTANT] | Application FINISHED.

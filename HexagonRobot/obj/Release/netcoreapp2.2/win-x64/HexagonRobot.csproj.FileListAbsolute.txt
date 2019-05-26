@@ -1,0 +1,14 @@
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.exe
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.deps.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.runtimeconfig.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.runtimeconfig.dev.json
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\bin\Release\netcoreapp2.2\win-x64\HexagonRobot.pdb
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.csprojAssemblyReference.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.csproj.CoreCompileInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.AssemblyInfoInputs.cache
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.AssemblyInfo.cs
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.dll
+C:\Users\wongk\source\repos\HexagonRobot\HexagonRobot\obj\Release\netcoreapp2.2\win-x64\HexagonRobot.pdb
