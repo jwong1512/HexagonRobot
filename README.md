@@ -4,6 +4,7 @@
 
 * The Application is built using .NET CORE 2.2 on Visual Studio 2019.
 * The Application took 3 days to build with an average of 8 hours a day being spent on the project.
+* There was a bit of Unit Testing added using the XUnit Framework.
 
 ## Running the Application
 
