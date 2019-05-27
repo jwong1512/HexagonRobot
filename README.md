@@ -19,7 +19,7 @@
 
 * Type the x-coordinate, y-coordinate and cardinal direction of where you want the robot to start. The x-coordinate and y-coordinate must be either **[0,1,2,3,4]**. The cardinal direction must be either **[North, South, East, West]**. The command must be written in the format: 
 
-        Place 0, 0, N
+        Place 0, 0, North
 
     ![Initial Place Command](https://github.com/jwong1512/HexagonRobot/blob/master/Images/initial-place-command.PNG)
 
